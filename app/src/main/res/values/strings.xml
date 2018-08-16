@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Xoom Demo</string>
+    <string name="error">There was an error retrieving countries. Please try again.</string>
+</resources>
